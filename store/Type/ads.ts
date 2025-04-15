@@ -1,0 +1,4 @@
+export const GET_ADS_REQUEST = "GET_ADS_REQUEST";
+export const GET_ADS_SUCCESS = "GET_ADS_SUCCESS";
+export const GET_ADS_FAILURE = "GET_ADS_FAILURE";
+export const RESET_ADS = "RESET_ADS";
